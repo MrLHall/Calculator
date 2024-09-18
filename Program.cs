@@ -12,7 +12,7 @@
         }
         static float addition(int a, int b)
         {
-            return a + b;
+            return a + b; 
         }
         static float subtract(int a, int b)
         {
